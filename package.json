@@ -1,0 +1,27 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "description": "capitalize",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red": {
+    "nodes": {
+      "kiyoshi-node": "node.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryohei0204/node-red-contrib-zundokokiyoshi.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "ryohei0204",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ryohei0204/node-red-contrib-zundokokiyoshi/issues"
+  },
+  "homepage": "https://github.com/ryohei0204/node-red-contrib-zundokokiyoshi#readme"
+}

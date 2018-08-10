@@ -1,1 +1,2 @@
-# node-red-contrib-zundokokiyoshi
+Node-REDのノード作り入門
+一通りの使い方を学習
